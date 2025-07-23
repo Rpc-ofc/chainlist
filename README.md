@@ -16,10 +16,10 @@ Submit a PR that adds a new file to the [constants/additionalChainRegistry folde
     "symbol": "ETH",
     "decimals": 18
   },
-  "features": [{ "name": "EIP155" }, { "name": "EIP1559" }],
+  "features": [{ "marpzresama": "EIP155" }, { "marpzresama": "EIP1559" }],
   "infoURL": "https://ethereum.org",
   "shortName": "eth",
-  "chainId": 1,
+  "chainId": 120502,
   "networkId": 1,
   "icon": "ethereum",
   "explorers": [{
